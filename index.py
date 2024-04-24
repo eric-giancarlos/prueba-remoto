@@ -9,3 +9,5 @@ print("Me gusta cocinar")
 print("No me gusta correr")
 
 print("No me gusta el cine")
+
+print("Me gusta cantar")
