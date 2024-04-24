@@ -127,6 +127,9 @@ while True:
   elif opcion == 4:
     latam.generar_graficos()
 
+  elif opcion == 6:
+    print("Grafico de contabilidad")
+
   elif opcion == 5:
     break;
   else:
