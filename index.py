@@ -7,3 +7,5 @@ print("Me gusta leer libros")
 print("Me gusta cocinar")
 
 print("No me gusta correr")
+
+print("No me gusta el cine")
